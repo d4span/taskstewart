@@ -1,4 +1,4 @@
-(ns taskstewart.core
+(ns ch.d4span.taskstewart.core
   (:gen-class))
 
 (defn -main
